@@ -19,18 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6970db6-8630-49c0-9673-b824d99388d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/REST_API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Kittu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApiProject/Customers/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApiProject/Customers/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApiProject/Customers/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    <list default="true" id="d6970db6-8630-49c0-9673-b824d99388d1" name="Default Changelist" comment="RestApi basic get method and all settings&#10;second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="E:/RestApiPractice" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -98,6 +89,21 @@
       <option name="presentableId" value="Default" />
       <updated>1589791185500</updated>
     </task>
+    <task id="LOCAL-00001" summary="RestApi basic get method and all settings">
+      <created>1589810577788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589810577788</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RestApi basic get method and all settings&#10;second commit">
+      <created>1589810608150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589810608150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,15 +118,20 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RestApi basic get method and all settings" />
+    <MESSAGE value="RestApi basic get method and all settings&#10;second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="RestApi basic get method and all settings&#10;second commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1589795483602">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589795483602" />
-    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1589806489785">
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1589811630045">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589806489785" />
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589811630045" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1589798417569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -141,6 +152,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589806534976" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589810681459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589810681459" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589791223298">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
