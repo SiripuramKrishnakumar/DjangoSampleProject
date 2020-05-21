@@ -19,8 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6970db6-8630-49c0-9673-b824d99388d1" name="Default Changelist" comment="RestApi basic get method and all settings&#10;second commit">
+    <list default="true" id="d6970db6-8630-49c0-9673-b824d99388d1" name="Default Changelist" comment="RestApi basic get method and all settings&#10;second commit3">
+      <change afterPath="$PROJECT_DIR$/RestApiProject/Customers/AuthenticationApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/client1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/client1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/client1/clientrequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/client1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/client1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/client1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Kittu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Kittu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApiProject/Customers/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestApiProject/Customers/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApiProject/Customers/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestApiProject/Customers/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApiProject/RestApiProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestApiProject/RestApiProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApiProject/RestApiProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestApiProject/RestApiProject/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +51,85 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1c4cCycWGh7O92hLPW9Dkgb38w2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="E:/RestApiPractice" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.clientrequest">
+    <configuration name="Client_auth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="REST_API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClientProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClientProject/Client_auth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="REST_API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clientrequest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="REST_API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/client1/client1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client1/client1/clientrequest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="REST_API" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,8 +151,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="REST_API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RestApiProject/RestApiProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RestApiProject/RestApiProject/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.clientrequest" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.Client_auth" />
         <item itemvalue="Python.models" />
       </list>
     </recent_temporary>
@@ -103,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589810608150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RestApi basic get method and all settings&#10;second commit3">
+      <created>1589866964666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589866964666</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,46 +230,52 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="RestApi basic get method and all settings" />
     <MESSAGE value="RestApi basic get method and all settings&#10;second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="RestApi basic get method and all settings&#10;second commit" />
+    <MESSAGE value="RestApi basic get method and all settings&#10;second commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="RestApi basic get method and all settings&#10;second commit3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="309" y="42" key="#Inspections" timestamp="1589795483602">
+    <state x="309" y="42" key="#Inspections" timestamp="1589956706871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589795483602" />
-    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1589811630045">
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589956706871" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1589866983522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589811630045" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1589798417569">
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589866983522" />
+    <state width="1345" height="185" key="GridCell.Tab.0.bottom" timestamp="1589968818641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589798417569" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1589798417569">
+    <state width="1345" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589968818641" />
+    <state width="1345" height="185" key="GridCell.Tab.0.center" timestamp="1589968818641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589798417569" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1589798417568">
+    <state width="1345" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589968818641" />
+    <state width="1345" height="185" key="GridCell.Tab.0.left" timestamp="1589968818640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589798417568" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1589798417569">
+    <state width="1345" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589968818640" />
+    <state width="1345" height="185" key="GridCell.Tab.0.right" timestamp="1589968818641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589798417569" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1589806534976">
+    <state width="1345" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589968818641" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1589892718983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589806534976" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589892718983" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589810681459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589810681459" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589791223298">
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589968638995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1589791223298" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1589968638995" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589884829740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589884829740" />
   </component>
 </project>
